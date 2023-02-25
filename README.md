@@ -1,4 +1,8 @@
-# 🌱 LensShare
+
+# LensShare
+
+![icon](https://user-images.githubusercontent.com/94803063/221370747-a450cbdd-ed7c-4467-875d-030c3c9c3b4d.png)
+
 
 A decentralised video sharing social platform built on Lens Protocol. 
 With LensShare, users can share and discover short videos through live streaming, uploads, and social shares. (TL:DR a decentralised TikTok)
