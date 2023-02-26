@@ -20,7 +20,7 @@ const Explore = () => {
       request: {
         sortCriteria: "CURATED_PROFILES",
         publicationTypes: ["POST"],
-        limit: 20,
+        limit: 50,
         metadata: {
           mainContentFocus: ["VIDEO"],
           mainContentFocus: ["IMAGE"],
