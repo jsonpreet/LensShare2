@@ -76,7 +76,7 @@ export const OPENSEA_MARKETPLACE_URL = IS_MAINNET
   : "https://testnets.opensea.io";
 
 export const IMAGE_CDN_URL = IS_MAINNET
-  ? "https://ik.imagekit.io/lenstubemain"
+  ? "https://ik.imagekit.io/seasgram/"
   : "";
 
 export const UPDATE_OWNABLE_FEE_COLLECT_MODULE_ADDRESS = IS_MAINNET
