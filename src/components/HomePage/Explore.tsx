@@ -23,6 +23,7 @@ const Explore = () => {
         limit: 20,
         metadata: {
           mainContentFocus: ["VIDEO"],
+          mainContentFocus: ["IMAGE"],
         },
       },
       reactionRequest,
